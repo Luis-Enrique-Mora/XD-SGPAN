@@ -1,2 +1,2 @@
 # SGPAN Grafic design
-Repositorio para el desarrollo de la plataforma SGPAN
+Designing mockup to implement web page for guanacastewatercenter.org
